@@ -1,9 +1,9 @@
-download vs code
-download and install git,git -v
-create an account in github
+Download vs code
+Download and install git,git -v
+Create an account in github
 
 .........................................
-open --->goto path--->cmd--->code
+Open --->goto path--->cmd--->code
 
 Extensions----> Material icon theme by pkief
 
