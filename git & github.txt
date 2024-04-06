@@ -3,7 +3,7 @@ git init
 git add .
 git commit -m "update"
 for 1st time:
-git config ---global user.email "ur mail"
+git config --global user.email "ur mail"
 git config ---global user.name "username"
 do git commit -m "update" again
 
