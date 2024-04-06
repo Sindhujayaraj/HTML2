@@ -1,0 +1,36 @@
+download vs code
+download and install git,git -v
+create an account in github
+
+.........................................
+open --->goto path--->cmd--->code
+
+Extensions----> Material icon theme by pkief
+
+HTML==>Hyper text markup labg started in 1992 by cern 
+GML(generalized ml)==>SGML(Standard GML)=>HTML
+Current version of HTML is HTML5
+HTML3-->p.headings,a,img
+HTML4-->tables,lists,forms,media
+HTML5-->Advanced-->semantic,dragn drop,canvas,geolocation
+
+HTML used for the content or structure of the web page. It includes links,tables,data,form,images,media etc...,
+
+Everything in HTML is done by Tags.There are two types of tags are present they are:
+<tagname>---> open tagname
+</tagname>---> close tagname
+
+whole HTML is in html element.Inside HTML element,you will have head and body elements.
+
+Tag vs element
+<h1>---> h1 open tag
+    content
+</h1>---> h1 close tag
+
+Element contains opentag+content+closetag
+
+In VS code there are some shortcuts
+
+To open html code
+1.!
+2.html:5
