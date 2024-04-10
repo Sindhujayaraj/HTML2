@@ -1,0 +1,6 @@
+Foratting tags are used to format the text.
+
+br-->break the line
+hr-->used for horizontal line
+b-->is used to make the text Bold
+strong--> is used to make the te
